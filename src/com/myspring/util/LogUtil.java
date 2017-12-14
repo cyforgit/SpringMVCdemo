@@ -1,4 +1,4 @@
-package com.hisense.basic.util;
+package com.myspring.util;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

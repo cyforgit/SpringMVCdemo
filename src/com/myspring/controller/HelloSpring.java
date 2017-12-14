@@ -1,4 +1,4 @@
-package com.hisense.basic.controller;
+package com.myspring.controller;
 
 import javax.servlet.http.HttpServletRequest;
 import org.springframework.stereotype.Controller;
