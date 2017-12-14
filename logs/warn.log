@@ -1,0 +1,9 @@
+[08:50:53:417] [WARN] - com.hisense.basic.util.LogUtil.main(LogUtil.java:12) - warn level
+[08:50:53:418] [ERROR] - com.hisense.basic.util.LogUtil.main(LogUtil.java:13) - error level
+[08:50:53:418] [FATAL] - com.hisense.basic.util.LogUtil.main(LogUtil.java:14) - fatal level
+[08:51:46:044] [WARN] - com.hisense.basic.util.LogUtil.main(LogUtil.java:12) - warn level
+[08:51:46:045] [ERROR] - com.hisense.basic.util.LogUtil.main(LogUtil.java:13) - error level
+[08:51:46:045] [FATAL] - com.hisense.basic.util.LogUtil.main(LogUtil.java:14) - fatal level
+[08:51:51:063] [WARN] - com.hisense.basic.util.LogUtil.main(LogUtil.java:12) - warn level
+[08:51:51:064] [ERROR] - com.hisense.basic.util.LogUtil.main(LogUtil.java:13) - error level
+[08:51:51:064] [FATAL] - com.hisense.basic.util.LogUtil.main(LogUtil.java:14) - fatal level
